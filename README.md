@@ -1,1 +1,1 @@
-# SDSVGD
+Guorui Li, Jing Gan, Cong Wang, Sancheng Peng, Shui Yu. Stateless Distributed Stein Variational Gradient Descent Method for Bayesian Federated Learning. IEEE Transactions on Neural Networks and Learning Systems, submitted.
